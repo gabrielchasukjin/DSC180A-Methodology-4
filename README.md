@@ -1,3 +1,2 @@
 # DSC180A-Methodology-4
-Gabriel Cha
-gcha@ucsd.edu
+Gabriel Cha and Arman Rahman
